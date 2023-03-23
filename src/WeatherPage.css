@@ -1,0 +1,19 @@
+input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border: 1px solid orange;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
+  
+  ul.Results {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul.Results li {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+  }
